@@ -1,4 +1,4 @@
-This my assignment folder for SECP1513 ( Technology and Information System )
+This is my IDEA THINKING PROJECT'S file for SECP1513 ( Technology and Information System )
 
 Some file uploaded on 2023 and some file uploaded on 20/1/2024 because of GITHUB account have been banned between December 2023 and early January 2024 .
 I try to reset my password but GITHUB didnt give me any access to do it so but at early 2024 i try to reset again and i got an access to reset my password back .
