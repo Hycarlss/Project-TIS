@@ -5,6 +5,18 @@ I try to reset my password but GITHUB didnt give me any access to do it so but a
 Its happen because I used cracked apps that stole my gmail and password that allow someone to access my account , and i got banned because of suspicious activity .
 I sincerely apologize for late submission .
 
+*Our Project*
+
+The HealHub apps are digital resources with a range of functions that promote mental health, including behaviour control, education, mindfulness training, mood monitoring, access to therapy, and community support. They are not a replacement for expert assistance, but they do provide self-help resources, accessibility, and convenience. Selecting trustworthy apps is important, and keep in mind that getting advice from a mental health professional is essential, particularly for severe or persistent mental health issues.
+
+*Our Member*
+
+Group 9 members:
+
+1. Austin See Yong Hui (A23CS5015)
+2. Muhammad Aidil Haikal bin Mazalan (A23CS5010)
+3. Sioh Ying Yi (A23CS0180)
+
 
 *Summary*
 
