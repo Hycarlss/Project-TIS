@@ -8,6 +8,7 @@ I sincerely apologize for late submission .
 
 *Summary*
 
-| No | Description | Reflection |
-| :---: | :---: | :---: |
+| No | Reflection |
+| :---: | :---: |
 | 1 | The experience with the design thinking prototype has been very beneficial to my learning process. It made the exploration of technology's convergence easier by allowing software and hardware to be seamlessly integrated. By using my knowledge in a practical way, I was able to address real user needs and problems and provide solutions that were impactful and precise. Beyond the technical aspects, the collaborative process helped me become a much better team player by teaching me how to have productive conversations and collaborate with my teammates to find creative solutions. 
+| 2 |The video of our project is available here: (https://www.youtube.com/watch?v=1u6Ve1g8LpA) |
